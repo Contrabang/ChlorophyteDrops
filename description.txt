@@ -1,0 +1,5 @@
+Underground and Caverns Post-Mech Jungle mobs now have a chance to drop Chlorophyte Ore.
+
+Works similar to soul spawning. 5% chance to drop 1-3 ore from any mob in post-mech underground jungle.
+
+Code is open source at https://github.com/Contrabang/ChlorophyteDrops

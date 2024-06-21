@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1cYkktia5rs5MIgXY2nhpd8414b8F34KPsprmfNsTbhIXB9XSzNG6jDmTcMkMEWstHVRlQ68Zf55wafziKW2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bluecloud\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChlorophyteDrops\\ChlorophyteDrops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bluecloud\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
